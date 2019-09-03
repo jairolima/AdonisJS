@@ -26,6 +26,12 @@ npm i --save mysql
 adonis migration:run
 ele cria as tabelas padrao no banco
 
--
+- criando controller User
+adonis make:controller User
+
+- Lista todas as rotas
+adonis route:list
+
+
 
 
